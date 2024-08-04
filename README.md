@@ -1,6 +1,6 @@
 # rose pine dwm patches
 
-this provides some basic patches for appyling [Rose Pine](https://rosepinetheme.com/) to dwm
+this provides some basic patches for applying [Rose Pine](https://rosepinetheme.com/) to dwm
 
 the folders are named after the respective accent color (which can be found on the [Rose Pine website](https://rosepinetheme.com/palette/ingredients/))
 
