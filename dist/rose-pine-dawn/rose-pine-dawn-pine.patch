@@ -1,0 +1,24 @@
+--- config.def.h.bak	2024-08-04 14:30:15.918277792 +0200
++++ config.def.h	2024-08-04 15:02:53.709070654 +0200
+@@ -7,15 +7,15 @@
+ static const int topbar             = 1;        /* 0 means bottom bar */
+ static const char *fonts[]          = { "monospace:size=10" };
+ static const char dmenufont[]       = "monospace:size=10";
+-static const char col_gray1[]       = "#222222";
+-static const char col_gray2[]       = "#444444";
+-static const char col_gray3[]       = "#bbbbbb";
+-static const char col_gray4[]       = "#eeeeee";
+-static const char col_cyan[]        = "#005577";
++static const char col_gray1[]       = "#faf4ed"; /* base */
++static const char col_gray2[]       = "#fffaf3"; /* surface */
++static const char col_gray3[]       = "#797593"; /* subtle */
++static const char col_gray4[]       = "#575279"; /* text */
++static const char col_cyan[]        = "#286983"; /* pine */
+ static const char *colors[][3]      = {
+ 	/*               fg         bg         border   */
+ 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
+-	[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
++	[SchemeSel]  = { "#fffaf3", col_cyan,  col_cyan  },
+ };
+ 
+ /* tagging */

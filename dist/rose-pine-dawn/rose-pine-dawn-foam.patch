@@ -9,16 +9,16 @@
 -static const char col_gray3[]       = "#bbbbbb";
 -static const char col_gray4[]       = "#eeeeee";
 -static const char col_cyan[]        = "#005577";
-+static const char col_gray1[]       = "#191724"; /* base */
-+static const char col_gray2[]       = "#1f1d2e"; /* surface */
-+static const char col_gray3[]       = "#908caa"; /* subtle */
-+static const char col_gray4[]       = "#e0def4"; /* text */
-+static const char col_cyan[]        = "#eb6f92"; /* love */
++static const char col_gray1[]       = "#faf4ed"; /* base */
++static const char col_gray2[]       = "#fffaf3"; /* surface */
++static const char col_gray3[]       = "#797593"; /* subtle */
++static const char col_gray4[]       = "#575279"; /* text */
++static const char col_cyan[]        = "#56949f"; /* foam */
  static const char *colors[][3]      = {
  	/*               fg         bg         border   */
  	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
 -	[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
-+	[SchemeSel]  = { col_gray1, col_cyan,  col_cyan  },
++	[SchemeSel]  = { "#fffaf3", col_cyan,  col_cyan  },
  };
  
  /* tagging */

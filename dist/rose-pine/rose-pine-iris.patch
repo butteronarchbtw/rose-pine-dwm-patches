@@ -1,5 +1,5 @@
 --- config.def.h.bak	2024-08-04 14:30:15.918277792 +0200
-+++ config.def.h	2024-08-04 15:04:59.109094894 +0200
++++ config.def.h	2024-08-04 15:02:53.709070654 +0200
 @@ -7,15 +7,15 @@
  static const int topbar             = 1;        /* 0 means bottom bar */
  static const char *fonts[]          = { "monospace:size=10" };
@@ -13,12 +13,12 @@
 +static const char col_gray2[]       = "#1f1d2e"; /* surface */
 +static const char col_gray3[]       = "#908caa"; /* subtle */
 +static const char col_gray4[]       = "#e0def4"; /* text */
-+static const char col_cyan[]        = "#f6c177"; /* gold */
++static const char col_cyan[]        = "#c4a7e7"; /* iris */
  static const char *colors[][3]      = {
  	/*               fg         bg         border   */
  	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
 -	[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
-+	[SchemeSel]  = { col_gray1, col_cyan,  col_cyan  },
++	[SchemeSel]  = { "#1f1d2e", col_cyan,  col_cyan  },
  };
  
  /* tagging */
