@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Clone this repo or download a specific patch file
+1. Clone this repo or download a specific patch file (patches are located in `dist/`
 2. Navigate to your dwm source directory
 3. Apply the patch just as you would with all other dwm patches too, e.g. `patch < patches/rose-pine/rose-pine-iris.patch`
 
