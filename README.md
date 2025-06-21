@@ -18,3 +18,15 @@ you might need to apply patches manually if conflicts occur (this can happen wit
 ## future work
 
 - add dawn & moon palettes
+
+## Contributing
+
+This theme is built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+# Install bloom
+curl -sf http://goblin.run/github.com/rose-pine/rose-pine-bloom@v2 | sh
+
+# Build themes
+rose-pine-bloom template.patch
+```
