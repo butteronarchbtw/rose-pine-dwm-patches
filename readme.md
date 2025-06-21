@@ -19,7 +19,7 @@
 
 ## Thanks to
 
-- [butteronarchbtw](https://github.com/butteronarchbtw)
+- [butter](https://github.com/butteronarchbtw)
 
 ## Contributing
 
