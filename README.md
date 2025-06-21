@@ -8,16 +8,11 @@ the folders are named after the respective accent color (which can be found on t
 
 just as you would with all other dwm patches too, e.g.
 
-```
-$ cd <folder-where-dwm-source-is-located>
-$ patch < <folder-where-patch-is-located>/iris/iris.patch
+```sh
+patch < <folder-where-patch-is-located>/rose-pine/rose-pine-iris.patch
 ```
 
 you might need to apply patches manually if conflicts occur (this can happen with any other dwm patch too)
-
-## future work
-
-- add dawn & moon palettes
 
 ## Contributing
 
