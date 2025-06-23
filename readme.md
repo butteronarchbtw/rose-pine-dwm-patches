@@ -17,6 +17,25 @@
 2. Navigate to your dwm source directory
 3. Apply the patch just as you would with all other dwm patches too, e.g. `patch < patches/rose-pine/rose-pine-iris.patch`
 
+## Gallery
+
+(All screenshots were taken with the iris accent patches)
+
+### Rosé Pine
+
+![rose pine without dmenu](https://github.com/user-attachments/assets/be8b665f-206a-4a18-9909-b2cff1655825)
+![rose pine with dmenu](https://github.com/user-attachments/assets/11b34cdf-b346-43da-854e-b6754475b2c1)
+
+### Rosé Pine Moon
+
+![rose pine moon without dmenu](https://github.com/user-attachments/assets/c5cdf534-e11c-42b9-9373-86a919450dee)
+![rose pine moon with dmenu](https://github.com/user-attachments/assets/a8bf59ec-2a38-4323-a48f-977cf8408ba6)
+
+### Rosé Pine Dawn
+
+![rose pine dawn without dmenu](https://github.com/user-attachments/assets/ab276a9f-e00f-44f5-883d-86a596a24611)
+![rose pine dawn with dmenu](https://github.com/user-attachments/assets/95cff431-496c-48a5-87ac-83c98989767a)
+
 ## Thanks to
 
 - [butter](https://github.com/butteronarchbtw)
